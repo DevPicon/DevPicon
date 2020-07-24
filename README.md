@@ -4,6 +4,7 @@
 **DevPicon/DevPicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Cornershop Inc.
 - 🌱 I’m currently learning Kotlin and Android (lifelong learning)
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [@devpicon](https://twitter.com/devpicon)
 - ⚡ Fun fact: I have a Youtube channel -> [DevPicon](https://youtube.com/devpicon)
--->
