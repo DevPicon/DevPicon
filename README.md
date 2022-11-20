@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Cornershop Inc.
+- 🔭 I’m currently working on Uber.
 - 🌱 I’m currently learning Kotlin and Android (lifelong learning)
 - 👯 I’m looking to collaborate with Android and Kotlin demos
 - 🤔 I’m looking for help with UI (Design and transitions) on android
