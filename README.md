@@ -1,15 +1,11 @@
-### Hi there 👋
+Hi there 👋  
+I'm Armando Picón — aka DevPicon.  
+💻 Android Developer | Kotlin Enthusiast | Community Advocate
 
-<!--
-**DevPicon/DevPicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Code with purpose. Talk with context. Grow with community.**
 
-Here are some ideas to get you started:
--->
+🎥 I create tutorials on Android & Kotlin  
+🎙️ I host the Codalot Podcast about tech, growth & leadership  
+🌎 Based in Chile 🇨🇱 | Born in Peru 🇵🇪  
 
-- 🔭 I’m currently open-to-work.
-- 🌱 I’m currently learning Kotlin and Android (lifelong learning)
-- 👯 I’m looking to collaborate with Android and Kotlin demos
-- 🤔 I’m looking for help with UI (Design and transitions) on Android
-- 💬 Ask me about ...
-- 📫 How to reach me: [@devpicon](https://twitter.com/devpicon)
-- ⚡ Fun fact: I have a Youtube channel -> [DevPicon](https://youtube.com/devpicon)
+🔗 Connect with me → [Linktree](https://linktr.ee/devpicon)
